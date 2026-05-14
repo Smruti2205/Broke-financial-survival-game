@@ -154,22 +154,16 @@ url_launcher: ^6.2.0
 
 ## Learning Goals
 
-This project helps users learn about:
+This project aims to promote financial awareness through interactive gameplay by helping players understand:
 
-* Budgeting on limited income
-* Identifying common financial scams
-* Managing needs vs. wants
-* Saving habits
-* Consequences of impulsive spending
-
----
-
-## Contributing
-
-Pull requests are welcome. Open an issue before making major changes.
+- Budgeting with limited income
+- Recognizing common financial scams
+- Prioritizing needs over wants
+- Building consistent saving habits
+- The impact of impulsive spending and poor financial decisions
 
 ---
 
 ## License
 
-This project is not published to pub.dev (`publish_to: none`). All rights reserved.
+This project is licensed under the MIT License.
