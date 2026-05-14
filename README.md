@@ -35,7 +35,7 @@
 * Multiple Endings — Different outcomes based on player decisions
 * Firebase Auth — Google Sign-In and guest login
 * Cloud Save — Game progress stored using Firestore
-* Dark Cyberpunk Theme — Neon-inspired UI with monospace fonts
+* Custom dark-themed UI with neon-inspired design
 
 ---
 
