@@ -1,0 +1,96 @@
+# ==========================================
+# Flutter / Dart
+# ==========================================
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub/
+.pub-cache/
+build/
+
+# Keep dependency lockfile
+!pubspec.lock
+
+# ==========================================
+# Android
+# ==========================================
+android/.gradle/
+android/app/build/
+android/local.properties
+android/key.properties
+
+# Firebase config (PUBLIC REPO SAFETY)
+android/app/google-services.json
+
+# ==========================================
+# iOS
+# ==========================================
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/ephemeral/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Runner.xcworkspace/
+ios/DerivedData/
+
+# Firebase iOS config
+ios/Runner/GoogleService-Info.plist
+
+# ==========================================
+# macOS
+# ==========================================
+macos/Pods/
+macos/Flutter/ephemeral/
+
+# ==========================================
+# Linux
+# ==========================================
+linux/flutter/ephemeral/
+
+# ==========================================
+# Windows
+# ==========================================
+windows/flutter/ephemeral/
+
+# ==========================================
+# Web
+# ==========================================
+lib/generated_plugin_registrant.dart
+
+# ==========================================
+# IDE / Editors
+# ==========================================
+.idea/
+.vscode/
+*.iml
+
+# ==========================================
+# Logs / Temporary Files
+# ==========================================
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# ==========================================
+# Firebase Emulator Logs
+# ==========================================
+firebase-debug.log
+firebase-debug.*.log
+
+# ==========================================
+# Coverage / Testing
+# ==========================================
+coverage/
+
+# ==========================================
+# Misc
+# ==========================================
+*.lock.bak
+
+**/build/
+
+devtools_options.yaml
